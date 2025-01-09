@@ -47,3 +47,5 @@ This app uses two OpenWeather API endpoints:
 
 - Geocoding API: To convert city names to coordinates
 - Current Weather API: To fetch weather data using coordinates
+
+__App is deployoed__: [here](https://weather-app-one-lilac-58.vercel.app/) 
